@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(135deg, #1244666e 0%, #ab390f78 100%);
+  color: red;
+  margin: 50px;
+  text-align: center;
+  font-size: 2.9em;
+  border: 10px blueviolet dotted;
+  border-radius: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
